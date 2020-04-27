@@ -12,9 +12,10 @@ import org.fusesource.mqtt.client.Topic;
  **/
 public class Main {
 
-    public static final String HOST = "xxxxx";
+    public static final String HOST = "123.45.678.90";
 
     public static void main(String[] args) {
+
 
         new Thread() {
             @Override
